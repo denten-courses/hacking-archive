@@ -20,29 +20,18 @@ age.
 
 - familiarize students with emerging paradigms of scholarship in digital
   humanities
-
 - shape and articulate a team-based semester-long research project
-
 - gain skills and expertise applicable widely across fields and disciplines
-
 - understand the impact of technology on the ways we aggregate information,
-
 - store and access data, navigate texts, and create and disseminate knowledge
-
 - explore artistic, textual and literary activity and emerging models of
-
 - cultural and scholarly practice “in the wild”
-
 - integrate research across undergraduate, graduate, and faculty lines through
   collaborative, team-based hands-on work
-
 - identify and familiarize students with large corpora of textual, sound, and
   visual materials
-
 - pose big questions that require many minds and multiple forms of
-
 - discipline-based expertise to solve
-
 - generate high visibility/high impact work of potential significance to
   communities both inside and outside the university
 
